@@ -1,19 +1,9 @@
 {
-  "name": "travis",
+  "name": "node-hello-world",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hello world",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hola Mundo\""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AlexaGSC/travis-repo.git"
-  },
-  "author": "Alexa",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AlexaGSC/travis-repo/issues"
-  },
-  "homepage": "https://github.com/AlexaGSC/travis-repo#readme"
+    "start": "node index.js"
+  }
 }
